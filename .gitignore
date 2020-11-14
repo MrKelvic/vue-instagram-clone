@@ -2,3 +2,4 @@ src/assets/
 node_modules
 dist
 public
+src/assets
